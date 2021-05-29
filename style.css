@@ -1,0 +1,22 @@
+body{
+    background-image: url(midias/bg2.png);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div{
+    background-color: rgba(255, 255, 255, 0.692);
+    width: 500px;
+    height: 200px;
+    padding-top: 20px;
+    margin-top: 160px;
+    border-radius: 15px;
+}
+
+#txtheroi{
+    width: 200px;
+    height: 40px;
+}
+
+#botao{
+    width: 80px;
+    height: 46px;
+}
